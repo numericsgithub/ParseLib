@@ -1,0 +1,17 @@
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\bin\Debug\netstandard2.0\ParseLib.deps.json
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\bin\Debug\netstandard2.0\ParseLib.dll
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\bin\Debug\netstandard2.0\ParseLib.pdb
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\obj\Debug\netstandard2.0\ParseLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\obj\Debug\netstandard2.0\ParseLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\obj\Debug\netstandard2.0\ParseLib.AssemblyInfo.cs
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\obj\Debug\netstandard2.0\ParseLib.dll
+C:\Users\Admin\Source\Workspaces\Komplexitätstheorie\Alles\ParseLib\obj\Debug\netstandard2.0\ParseLib.pdb
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\bin\Debug\netstandard2.0\ParseLib.deps.json
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\bin\Debug\netstandard2.0\ParseLib.dll
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\bin\Debug\netstandard2.0\ParseLib.pdb
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\obj\Debug\netstandard2.0\ParseLib.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\obj\Debug\netstandard2.0\ParseLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\obj\Debug\netstandard2.0\ParseLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\obj\Debug\netstandard2.0\ParseLib.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\obj\Debug\netstandard2.0\ParseLib.dll
+C:\Users\Admin\Documents\GitHub\ParseLib\ParseLib\obj\Debug\netstandard2.0\ParseLib.pdb
